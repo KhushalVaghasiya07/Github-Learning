@@ -7,5 +7,5 @@ function sayname() {
 }
 
 function isAbove18() {
-    return age >= 19;
+    return age >= 17;
 }
